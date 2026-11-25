@@ -362,7 +362,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/gale/proprietary/vendor/etc/camera/xiaomi/thirdpartysnapshot.json:$(TARGET_COPY_OUT_VENDOR)/etc/camera/xiaomi/thirdpartysnapshot.json \
     vendor/xiaomi/gale/proprietary/vendor/etc/camera/xiaomi/uwsuperlowlightshot.json:$(TARGET_COPY_OUT_VENDOR)/etc/camera/xiaomi/uwsuperlowlightshot.json \
     vendor/xiaomi/gale/proprietary/vendor/etc/cust_color.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cust_color.xml \
-    vendor/xiaomi/gale/proprietary/vendor/etc/displayconfig/display_id_4627039422300187648.xml:$(TARGET_COPY_OUT_VENDOR)/etc/displayconfig/display_id_4627039422300187648.xml \
     vendor/xiaomi/gale/proprietary/vendor/etc/dsi_panel_c3uv_35_03_0b_vdo_mi.xml:$(TARGET_COPY_OUT_VENDOR)/etc/dsi_panel_c3uv_35_03_0b_vdo_mi.xml \
     vendor/xiaomi/gale/proprietary/vendor/etc/dsi_panel_c3uv_42_0f_0d_vdo_mi.xml:$(TARGET_COPY_OUT_VENDOR)/etc/dsi_panel_c3uv_42_0f_0d_vdo_mi.xml \
     vendor/xiaomi/gale/proprietary/vendor/etc/dsi_panel_c3uv_43_02_0a_vdo_mi.xml:$(TARGET_COPY_OUT_VENDOR)/etc/dsi_panel_c3uv_43_02_0a_vdo_mi.xml \
