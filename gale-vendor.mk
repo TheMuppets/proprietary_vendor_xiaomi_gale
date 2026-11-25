@@ -579,11 +579,6 @@ PRODUCT_PACKAGES += \
     arm.graphics-V5-ndk \
     arm.mali.platform-V2-ndk \
     libGLES_mali \
-    libGLES_meow \
-    libMEOW_data \
-    libMEOW_gift \
-    libMEOW_qt \
-    libMEOW_trace \
     android.hardware.audio.effect.aidl-impl-mediatek \
     android.hardware.camera.provider@2.6-impl-mediatek \
     android.hardware.gnss-impl-mediatek \
