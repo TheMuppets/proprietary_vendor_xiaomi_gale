@@ -1101,6 +1101,7 @@ PRODUCT_PACKAGES += \
     SoterService \
     ImsService \
     MtkGbaService \
+    MtkTelephonyAssist \
     mediatek-ims-base \
     mediatek-telephony-base \
     mediatek-ims-extension-plugin \
