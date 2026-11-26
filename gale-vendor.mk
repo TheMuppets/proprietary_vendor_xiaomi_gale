@@ -968,7 +968,6 @@ PRODUCT_PACKAGES += \
     libvp9dec_sa.ca7 \
     libvpudv3a_vcodec \
     libwapi \
-    libwifi-hal-mtk \
     libwifical \
     libwifinvram \
     libwifinvramdata \
